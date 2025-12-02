@@ -1,4 +1,13 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:0077B6&height=150&section=header&text=Calculator%20Project&fontSize=32&fontColor=ffffff&animation=fadeIn)
+
 # 🧮 Calculator Project
+<p>
+  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Project-Calculator-success" />
+</p>
+
 
 This is a simple **web-based calculator** built using **HTML, CSS, and JavaScript**.  
 It performs basic arithmetic operations and provides a clean, responsive interface for performing calculations in the browser.
